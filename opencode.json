@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "openrouter/z-ai/glm-5.2",
+  "provider": {
+    "openrouter": {
+      "options": {
+        "apiKey": "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"
+      }
+    }
+  }
+}
